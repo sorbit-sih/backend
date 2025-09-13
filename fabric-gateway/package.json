@@ -1,0 +1,15 @@
+{
+  "name": "fabric-gateway-service",
+  "version": "1.0.0",
+  "description": "A stable microservice to interact with Hyperledger Fabric using the official Node.js SDK.",
+  "main": "gateway.js",
+  "scripts": {
+    "start": "node gateway.js"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.9.0",
+    "@hyperledger/fabric-gateway": "^1.4.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}

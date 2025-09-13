@@ -1,0 +1,32 @@
+{
+    "netarhat": {
+        "location": "Latehar district, Jharkhand",
+        "description": "Known as the Queen of Chotanagpur, famous for sunrise/sunset, forests, and waterfalls.",
+        "best_time": "October to March",
+        "activities": "Sunrise at Magnolia Point, trekking, and visiting waterfalls nearby."
+    },
+    "patratu": {
+        "location": "Ramgarh district, Jharkhand",
+        "description": "Patratu Valley is scenic with winding roads, lake views, and hills.",
+        "best_time": "November to February",
+        "activities": "Road trip, boating in Patratu Lake, enjoying valley views."
+    },
+    "betla": {
+        "location": "Palamu district, Jharkhand",
+        "description": "Betla National Park is known for tigers, elephants, and rich biodiversity.",
+        "best_time": "October to April",
+        "activities": "Wildlife safari, exploring waterfalls and forts inside the park."
+    },
+    "hundru": {
+        "location": "Near Ranchi, Jharkhand",
+        "description": "Hundru Falls is a 98m waterfall, spectacular during monsoon and winter.",
+        "best_time": "July to February",
+        "activities": "Photography, picnics, and trekking near the falls."
+    },
+    "deoghar": {
+        "location": "Deoghar district, Jharkhand",
+        "description": "Deoghar is a pilgrimage city, home to Baba Baidyanath Jyotirlinga temple.",
+        "best_time": "July (Shravan month pilgrimage), October to March for tourism.",
+        "activities": "Temple visit, ropeway to Trikuta Hills, shopping for pedas (local sweets)."
+    }
+}
